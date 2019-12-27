@@ -1,11 +1,11 @@
 {
-  "name": "gitbook-plugin-auto-summary",
-  "version": "0.0.1",
+  "name": "gitbook-plugin-auto-write-summary",
+  "version": "0.0.2",
   "description": "Gitbook plugin to auto-generate SUMMARY.md by muzi",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/Melussa/gitbook-plugin-auto-summary.git"
+    "url": "https://github.com/Melussa/gitbook-plugin-write-auto-summary.git"
   },
   "keywords": [
     "gitbook",
