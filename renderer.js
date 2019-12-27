@@ -77,7 +77,7 @@ const buildSummary = config => entries =>{
   // const title = config.introdutionConfig.title || "introdution"
   // const file = config.introdutionConfig.file || "README.md"
   // return `\n* [${title}](${file})\n` + entries.join('\n')
-  entries.join('\n')
+  return entries.join('\n')
 }
 
 

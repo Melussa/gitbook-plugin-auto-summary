@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-auto-write-summary",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gitbook plugin to auto-generate SUMMARY.md by muzi",
   "scripts": {},
   "repository": {
